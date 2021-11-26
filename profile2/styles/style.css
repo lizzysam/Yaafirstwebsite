@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+}
+
+.left-image{
+    background: url(../images/yaa.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+}
+
+.grey-area{
+    background-color:#f9f9f9;
+}
+
+.list-group-item{
+    background-color:#f9f9f9;
+}
+
+.container{
+    margin-top: 8%;
+    margin-bottom: 8%;
+}

@@ -1,0 +1,56 @@
+  
+  body {
+    font: 300 14px/18px Roboto
+  }
+  
+  .top-part {
+    background: url(../images/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 350px;
+    border: 0px;
+  }
+  .bottom-part {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #fff;
+    border: 0px;
+    background-color: #f9f9f9;
+  }
+
+  .profile-imag{
+    position: relative;
+  }
+
+  .profile-section{
+    background-color: #f9f9f9;
+  }
+
+  .list-group-item{
+    background-color: #f9f9f9;
+  }
+
+  .top-text {
+    color: #fff;
+  }
+
+  p, h1, h2, h3, h4, h5, h6{
+    color: #011032;
+  }
+
+  h1, h2, h3, h4, h5, h6{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  h3 {
+    font-weight: 600;
+  }
+
+  .footer-text{
+    border: 0px;
+    color: white;
+  }
